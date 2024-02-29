@@ -19,8 +19,7 @@ Unlike common servomotors, the AX12-A is not controlled by a PWM pins, it's rath
 
 In order to use the AX12-A dynamixel servomotor in conjunction with the Arduino UNO board, it's necessary to use it as it's shown in the link below:
 
-
-https://drive.google.com/file/d/1jubREQObciG_EPda9IJK6XAkuJ8a8kjX/view?usp=drive_link
+![Dynamixel_Diagrama](https://github.com/RAS-UAO/dynamixel/assets/98227139/4f32cc66-8936-4549-8dfb-39d5329a99d6)
 
 As said before, the transmitter pin (TXD) is used because the AX12-A is controlled through serial port connections.
 # Code files
