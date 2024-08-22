@@ -34,5 +34,5 @@ In this repository, you'll find codes for:
  - If you don't know your AX12-A's ID, then use 254 as your ID. This is
    a general ID for all the AX-12A
    
- - Share voltage source's ground and Arduino UNO's ground, so the reference it's the same for both
+ - Please, never forget to share the voltage source's ground and Arduino UNO's ground, so the reference it's the same for both
 
